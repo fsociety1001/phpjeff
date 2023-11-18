@@ -22,6 +22,8 @@ $lista_frutas = ['banana', 'abacaxi', 'melão', 'morango'];
 
 ?>
 
+
+//console
 /**
 Teste 0:int(4)
 \nTeste 1:bool(true)       
