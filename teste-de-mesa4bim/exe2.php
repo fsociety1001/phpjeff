@@ -13,7 +13,7 @@ $sete_maravilhas = [
     for($i=0; $i < 7; $i++){
         print($i+1 . ": ". $sete_maravilhas[$i]. "\n");
 }
-//terminal:
+//console
 /**
 * 1: Cristo Redentor
 * 2: Chichén Itzá
