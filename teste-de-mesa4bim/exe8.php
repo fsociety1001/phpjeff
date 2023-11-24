@@ -24,11 +24,10 @@ $lista_frutas = ['banana', 'abacaxi', 'melão', 'morango'];
 
 
 //console
-/**
-Teste 0:int(4)
-\nTeste 1:bool(true)       
-\nTeste 2:bool(false)      
-\nTeste 3:int(3)
-\nTeste 4:bool(true)       
-\nTeste 5:bool(true)       
-*/
+/*
+  Teste 0: int(4)     --->  q. in array
+  Teste 1: bool(true)  ---> "banan" in array() == true
+  Teste 2: bool(false)  ---> "alface" in array() = false
+  Teste 3: int(3)     ---> "morango", in array() pos.3 (começa no 0)
+  Teste 4: bool(true)  --->  funcao sort() return = true. , retornou o valor com sucesso.
+  Teste 5: bool(true)  ---> sort. 2.0
